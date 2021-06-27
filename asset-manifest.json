@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/main.ac40d18d.chunk.js",
+    "main.js.map": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/main.ac40d18d.chunk.js.map",
+    "runtime-main.js": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/runtime-main.2f0ee21b.js",
+    "runtime-main.js.map": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/runtime-main.2f0ee21b.js.map",
+    "static/js/2.1bb06c45.chunk.js": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/2.1bb06c45.chunk.js",
+    "static/js/2.1bb06c45.chunk.js.map": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/2.1bb06c45.chunk.js.map",
+    "index.html": "/vishalbajpai448/Internship_KohliMediaLLP/index.html",
+    "static/js/2.1bb06c45.chunk.js.LICENSE.txt": "/vishalbajpai448/Internship_KohliMediaLLP/static/js/2.1bb06c45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f0ee21b.js",
+    "static/js/2.1bb06c45.chunk.js",
+    "static/js/main.ac40d18d.chunk.js"
+  ]
+}
